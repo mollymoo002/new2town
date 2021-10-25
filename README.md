@@ -16,6 +16,8 @@
 - If you clone this repo you will need to run 'npm i' to install the relevant npm packages.
 - There is a live build at https://polar-garden-81010.herokuapp.com/login
 
+![Screenshot](public/assets/images/Capture.JPG)
+
 ## Credits
 - principle dev team includes Joey Fisher, Molly Singmaster, Nazik Askarbekkyzy and Aidan Rich.
 - Images are hosted by Cloudinary.
